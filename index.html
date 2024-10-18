@@ -491,82 +491,93 @@
     </section>
     <!-- End Services Section -->
 
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <!DOCTYPE html>
-      <html lang="en">
-      <head>
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Guestbook</title>
-          <style>
-              /* CSS 样式可以根据需要进行自定义 */
-          </style>
-      </head>
-      <body>
-          <h2>Guestbook</h2>
-          <div id="messages">
-              <!-- 留言列表将显示在这里 -->
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-5">
+
+            <div class="info-wrap">
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                <i class="bi bi-geo-alt flex-shrink-0"></i>
+                <div>
+                  <h3>Address</h3>
+                  <p>A108 Adam Street, New York, NY 535022</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                <i class="bi bi-telephone flex-shrink-0"></i>
+                <div>
+                  <h3>Call Us</h3>
+                  <p>+1 5589 55488 55</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                <i class="bi bi-envelope flex-shrink-0"></i>
+                <div>
+                  <h3>Email Us</h3>
+                  <p>info@example.com</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
           </div>
-          <form id="messageForm">
-              <label for="name">Name:</label><br>
-              <input type="text" id="name" name="name" required><br>
-              <label for="message">Message:</label><br>
-              <textarea id="message" name="message" rows="4" required></textarea><br>
-              <input type="submit" value="Post Message">
-          </form>
 
-          <script>
-            document.getElementById("messageForm").addEventListener("submit", function(event) {
-              event.preventDefault(); // 阻止表单默认提交行为
+          <div class="col-lg-7">
+            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+              <div class="row gy-4">
 
-              var formData = new FormData(this);
+                <div class="col-md-6">
+                  <label for="name-field" class="pb-2">Your Name</label>
+                  <input type="text" name="name" id="name-field" class="form-control" required="">
+                </div>
 
-              fetch('save_message.php', {
-                  method: 'POST',
-                  body: formData
-              })
-              .then(response => {
-                  if (response.ok) {
-                      return response.text();
-                  }
-                  throw new Error('Network response was not ok.');
-              })
-              .then(data => {
-                  // 如果保存成功，重新加载留言
-                  fetchMessages();
-              })
-              .catch(error => {
-                  console.error('Error:', error);
-                  alert('Failed to post message. Please try again later.');
-              });
-            });
+                <div class="col-md-6">
+                  <label for="email-field" class="pb-2">Your Email</label>
+                  <input type="email" class="form-control" name="email" id="email-field" required="">
+                </div>
 
-            // 加载留言
-            function fetchMessages() {
-              fetch('get_messages.php')
-              .then(response => {
-                  if (response.ok) {
-                      return response.text();
-                  }
-                  throw new Error('Network response was not ok.');
-              })
-              .then(data => {
-                  document.getElementById("messages").innerHTML = data;
-              })
-              .catch(error => {
-                  console.error('Error:', error);
-                  alert('Failed to fetch messages. Please try again later.');
-              });
-            }
+                <div class="col-md-12">
+                  <label for="subject-field" class="pb-2">Subject</label>
+                  <input type="text" class="form-control" name="subject" id="subject-field" required="">
+                </div>
 
-            window.onload = fetchMessages;
-          </script>
-        </body>
-      </html>
-    </section><!-- End Contact Section -->
+                <div class="col-md-12">
+                  <label for="message-field" class="pb-2">Message</label>
+                  <textarea class="form-control" name="message" rows="10" id="message-field" required=""></textarea>
+                </div>
 
-  </main><!-- End #main -->
+                <div class="col-md-12 text-center">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                  <button type="submit">Send Message</button>
+                </div>
+
+              </div>
+            </form>
+          </div><!-- End Contact Form -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+  </main>
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
