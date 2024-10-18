@@ -25,14 +25,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: iPortfolio
-  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-  * Updated: Mar 17 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
   
   <style>
     /* 图片样式统一放入CSS中，简化HTML代码 */
@@ -45,6 +37,20 @@
     html {
       scroll-behavior: smooth;
     }
+
+    .back-button {
+      display: inline-block;
+      margin: 20px 0;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    .back-button:hover {
+      background-color: #0056b3;
+    }
   </style>
 </head>
 
@@ -52,6 +58,11 @@
 
   <!-- ======= Mobile nav toggle button ======= -->
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+  
+  <!-- 添加返回主页按钮 -->
+  <div class="container">
+    <a href="index.html" class="back-button">← Back to Home</a>
+  </div>
   
   <section id="portfolio-details" class="portfolio-details">
     <div class="container">
@@ -62,20 +73,20 @@
           <img src="assets/img/portfolio/flipperover_album.jpg" alt="FLIPPEDOVER Mixtape Cover">
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="portfolio-info">
             <h3>Basic Info</h3>
             <ul>
               <li><strong>Name</strong>: FLIPPEDOVER Mixtape</li>
-              <li><strong>Style</strong>: HipHop</li>
-              <li><strong>Date</strong>: March 2024</li>
-              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=123456</a></li>
+              <li><strong>Style</strong>: HipHop/Independent</li>
+              <li><strong>Date</strong>: Oct 2024</li>
+              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/album?id=173923957</a></li>
             </ul>
           </div>
           <div class="portfolio-description">
-            <h2>Music Cover Example</h2>
+            <h2>Music Story</h2>
             <p style="text-align: justify;">
-              This is the description for FLIPPEDOVER Mixtape...
+              The first mixtape of me, I tried to convey my thoughts and feelings through music. The mixtape is a collection of my works in the past few years, and I hope you can enjoy it. Love u guys.
             </p>
           </div>
         </div>
@@ -91,20 +102,20 @@
           <img src="assets/img/portfolio/faintfire.jpg" alt="FaintFire Cover">
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="portfolio-info">
             <h3>Basic Info</h3>
             <ul>
               <li><strong>Name</strong>: FaintFire</li>
               <li><strong>Style</strong>: HipHop</li>
-              <li><strong>Date</strong>: April 2021</li>
-              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=46771775</a></li>
+              <li><strong>Date</strong>: Oct 2022</li>
+              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/song?id=2601152306</a></li>
             </ul>
           </div>
           <div class="portfolio-description">
-            <h2>Music Cover Example</h2>
+            <h2>Music Story</h2>
             <p style="text-align: justify;">
-              This is the description for FaintFire...
+              This song was written after an era filled with isolation and suffering. It uses abstract language to present views on various social issues, such as educational inequality and gender power dynamics. Literature is of no help in changing reality unless it can truly ignite a spark in the vast darkness. This is the origin of FaintFire. 
             </p>
           </div>
         </div>
@@ -120,28 +131,202 @@
           <img src="assets/img/portfolio/youngmask.jpg" alt="YoungMask Cover">
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="portfolio-info">
             <h3>Basic Info</h3>
             <ul>
               <li><strong>Name</strong>: YoungMask</li>
-              <li><strong>Style</strong>: Rock</li>
-              <li><strong>Date</strong>: May 2024</li>
-              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=46771775</a></li>
+              <li><strong>Style</strong>: HipHop</li>
+              <li><strong>Date</strong>: Oct 2024</li>
+              <li><strong>Music URL</strong>: <a href="#">soon released</a></li>
             </ul>
           </div>
           <div class="portfolio-description">
-            <h2>Music Cover Example</h2>
+            <h2>Music Story</h2>
             <p style="text-align: justify;">
-              This is the description for YoungMask...
+              Thanks to Jitao's mixing! I really love the final work.  Inspiration comes from a teenage bullying death incident in Handan last year, which made people realize that there is still considerable room for discussion on the effectiveness of the Youth Protection Law. A lot of metaphorical techniques were used in this song, hoping to bring some valuable thoughts.
             </p>
           </div>
         </div>
 
       </div>
 
-      <!-- 可以继续为其他歌曲如Shadree、WhiteRoseNarration等添加类似结构 -->
+      <hr>
 
+      <div class="row gy-4">
+
+        <!-- 锚点：Shadree -->
+        <div id="shadree" class="col-lg-6">
+          <img src="assets/img/portfolio/shadree.jpg" alt="Shadree Cover">
+        </div>
+
+        <div class="col-lg-6">
+          <div class="portfolio-info">
+            <h3>Basic Info</h3>
+            <ul>
+              <li><strong>Name</strong>: Shadree</li>
+              <li><strong>Style</strong>: Hiphop</li>
+              <li><strong>Date</strong>: May 2024</li>
+              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=46771775</a></li>
+            </ul>
+          </div>
+          <div class="portfolio-description">
+            <h2>Music Story</h2>
+            <p style="text-align: justify;">
+              This is the description for Shadree...
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <hr>
+
+      <div class="row gy-4">
+
+        <!-- 锚点：WhiteRoseNarration -->
+        <div id="whiterosenarration" class="col-lg-6">
+          <img src="assets/img/portfolio/whiterosenarration.jpg" alt="whiterosenarration Cover">
+        </div>
+
+        <div class="col-lg-6">
+          <div class="portfolio-info">
+            <h3>Basic Info</h3>
+            <ul>
+              <li><strong>Name</strong>: WhiteRoseNarration</li>
+              <li><strong>Style</strong>: HipHop</li>
+              <li><strong>Date</strong>: May 2024</li>
+              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=46771775</a></li>
+            </ul>
+          </div>
+          <div class="portfolio-description">
+            <h2>Music Story</h2>
+            <p style="text-align: justify;">
+              This is the description for WhiteRoseNarration...
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <hr>
+
+      <div class="row gy-4">
+
+        <!-- 锚点：RoundingAnts -->
+        <div id="roundingants" class="col-lg-6">
+          <img src="assets/img/portfolio/roundingants.jpg" alt="RoundingAnts Cover">
+        </div>
+
+        <div class="col-lg-6">
+          <div class="portfolio-info">
+            <h3>Basic Info</h3>
+            <ul>
+              <li><strong>Name</strong>: RoundingAnts</li>
+              <li><strong>Style</strong>: HipHop</li>
+              <li><strong>Date</strong>: May 2024</li>
+              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=46771775</a></li>
+            </ul>
+          </div>
+          <div class="portfolio-description">
+            <h2>Music Story</h2>
+            <p style="text-align: justify;">
+              This is the description for RoundingAnts...
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <hr>
+
+      <div class="row gy-4">
+
+        <!-- 锚点：StarLullaby -->
+        <div id="starlullaby" class="col-lg-6">
+          <img src="assets/img/portfolio/starlullaby.jpg" alt="StarLullaby Cover">
+        </div>
+
+        <div class="col-lg-6">
+          <div class="portfolio-info">
+            <h3>Basic Info</h3>
+            <ul>
+              <li><strong>Name</strong>: StarLullaby</li>
+              <li><strong>Style</strong>: HipHop</li>
+              <li><strong>Date</strong>: May 2024</li>
+              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=46771775</a></li>
+            </ul>
+          </div>
+          <div class="portfolio-description">
+            <h2>Music Story</h2>
+            <p style="text-align: justify;">
+              This is the description for StarLullaby...
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <hr>
+
+      <div class="row gy-4">
+
+        <!-- 锚点：FlipperOver (Single) -->
+        <div id="flippedover" class="col-lg-6">
+          <img src="assets/img/portfolio/flippedover.jpg" alt="FlippedOver Cover">
+        </div>
+
+        <div class="col-lg-6">
+          <div class="portfolio-info">
+            <h3>Basic Info</h3>
+            <ul>
+              <li><strong>Name</strong>: FlippedOver</li>
+              <li><strong>Style</strong>: HipHop</li>
+              <li><strong>Date</strong>: May 2024</li>
+              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=46771775</a></li>
+            </ul>
+          </div>
+          <div class="portfolio-description">
+            <h2>Music Story</h2>
+            <p style="text-align: justify;">
+              This is the description for FlippedOver...
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <hr>
+
+      <div class="row gy-4">
+
+        <!-- 锚点：Back2Harbor -->
+        <div id="youngmask" class="col-lg-6">
+          <img src="assets/img/portfolio/back2harbor.jpg" alt="Back2Harbor Cover">
+        </div>
+
+        <div class="col-lg-6">
+          <div class="portfolio-info">
+            <h3>Basic Info</h3>
+            <ul>
+              <li><strong>Name</strong>: Back2Harbor</li>
+              <li><strong>Style</strong>: HipHop</li>
+              <li><strong>Date</strong>: May 2024</li>
+              <li><strong>Music URL</strong>: <a href="#">https://music.163.com/#/artist?id=46771775</a></li>
+            </ul>
+          </div>
+          <div class="portfolio-description">
+            <h2>Music Story</h2>
+            <p style="text-align: justify;">
+              This is the description for Back2Harbor...
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+
+      
     </div>
   </section>
 </body>
