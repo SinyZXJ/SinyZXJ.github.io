@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+A new version of my homepage is constructed. Waiting for more good news here 😼
