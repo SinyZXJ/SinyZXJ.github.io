@@ -7,11 +7,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Storey 9, Create Tower, SMART</p>
+    <p>UTown, NUS</p>
+    <p>Singapore,138602</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently a master student at National University of Singapore (NUS) and a research intern at Singapore-MIT Alliance for Research and Technology (SMART), estimated to graduate at Jan 2026. I developed research on Multi-agent reinforcement learning at Multi-Agent Robotic Motion (MARMot) Lab under guidance of Prof. Guillaume SARTORETTI. Before that, I received my bachelor's degree in Automation at Harbin Institute of Technology, Shenzhen (HITsz).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In the past year, I have primarily focused on multi-agent informative path planning based on reinforcement learning. As a long-term goal, I am dedicated to enhancing robotic perception and behavioral intelligence through machine learning, with the aim of driving tangible improvements in human labor and achieving highly reliable, deployable robotic technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also a music producer and mixing engineer. Starting in 2026, I plan to promote and release my music more actively. You can find and listen to my work by searching for "Siny" on NetEase Music.

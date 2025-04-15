@@ -1,157 +1,169 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Xingjian (Siny) Zhang",
+    "label": "Robotics Researcher & Music Producer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "xingjian@u.nus.edu",
+    "phone": "N.A.",
+    "url": "https://sinyzxj.github.io",
+    "summary": "M.Sc. student in Mechanical Engineering at the National University of Singapore with research interests in multi-agent deep reinforcement learning, human–robot interaction, and generative AI. Experienced in machine learning, control systems, and computer vision processing. Passionate about music production.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Storey 9, Create Tower, SMART",
+      "postalCode": "138602",
+      "city": "Singapore",
+      "countryCode": "SG",
+      "region": "Kent Ridge"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "RedNote",
+        "username": "_siny",
+        "url": "https://www.xiaohongshu.com/user/profile/598c7d7b50c4b44ab81d6472?xsec_token=YB1b8_pNH5PnjLC21YpCmK9fM4d49p3foyhhZwWkY0mko=&xsec_source=app_share&xhsshare=CopyLink&appuid=598c7d7b50c4b44ab81d6472&apptime=1744701003&share_id=a49bf0e9fd3d4a2cab3b4e82b7a459c6"
+      },
+      {
+        "network": "NetEaseMusic",
+        "username": "_siny",
+        "url": "https://music.163.com/#/artist?id=46771775"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "CLeAR Lab",
+      "position": "Research Intern, School of Computing, NUS",
+      "url": "https://clear-nus.github.io/",
+      "startDate": "2025-07-01",
+      "endDate": "N.A.",
+      "summary": "Estimated to develop research on remote manipulation",
+      "highlights": []
+    },
+    {
+      "name": "SMART, Massachusetts Institute of Technology (MIT)",
+      "position": "Research Intern, Mens, Manus and Machina (M3S)",
+      "url": "https://smart.mit.edu",
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-01",
+      "summary": "Leveraged Transformer architectures within a Generative Adversarial Imitation Learning (GAIL) framework to predict sequential personal educational and career trajectories based on expert demonstrations.",
+      "highlights": []
     }
   ],
-  "volunteer": [
+  "Activities": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Shenzhen Campus Student Art Troupe",
+      "location": "Shenzhen, China",
+      "position": "Vice Chairman",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-31",
+      "summary": "Organized commemorative events including the 20th Anniversary Commemorative Evening and more than 20 different performances across universities and local communities. Additionally, produced campus anniversary song showcased in HIT History Museum.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "National University of Singapore",
+      "location": "Singapore",
+      "url": "https://nus.edu.sg",
+      "area": "Mechanical Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2024-08-01",
+      "endDate": "2026-01-01",
+      "score": "4.5/5.0",
+      "courses": [
+        "Machine Learning in Robotics",
+        "Machine Vision",
+        "Autonomous Mobile Robotics"
+      ]
+    },
+    {
+      "institution": "Harbin Institute of Technology",
+      "location": "Shenzhen, China",
+      "url": "https://www.hit.edu.cn",
+      "area": "Automation",
+      "studyType": "B.Eng.",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-01",
+      "score": "Outstanding Student of 2020-2021",
+      "courses": [
+        "Modern Control Theory",
+        "Advanced Language Programming (C/C++)",
+        "Data Structures",
+        "Digital and Analog Circuits",
+        "Machine Vision"
+      ]
+    },
+    {
+      "institution": "NUS Research Institute",
+      "location": "Suzhou, China",
+      "url": "",
+      "area": "Robotics & Control",
+      "studyType": "Exchange Student",
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-01",
+      "score": "4.0/4.0",
+      "courses": [
+        "Robot Mechanics and Control",
+        "Automation in Manufacturing",
+        "Product Design and Development"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Mathematical Contest in Modeling (MCM)",
+      "date": "2022",
+      "awarder": "COMAP",
+      "url": "",
+      "summary": "Finalist in MCM 2022 (Top 1.3% Global), First author"
+    },
+    {
+      "title": "16th National Smart Car Race",
+      "date": "2021",
+      "awarder": "Chinese Association of Automation",
+      "url": "https://www.hitsz.edu.cn/article/view/id-123532.html",
+      "summary": "National First Prize"
+    },
+    {
+      "title": "21st National University Robot Competition (ROBOCON)",
+      "date": "2022",
+      "awarder": "ROBOCON Committee",
+      "url": "https://www.cnrobocon.net/",
+      "summary": "National Third Prize"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Learning-based Stage Verification System in Manual Assembly Scenarios",
+      "publisher": "International Conference on Smart and Advanced Manufacturing",
+      "releaseDate": "2024-11-30",
+      "url": "",
+      "summary": "Developed and implemented a learning-based stage verification system to improve manual assembly accuracy in industrial scenarios through 1 stereo camera.",
+      "highlights": [],
+      "image": "assets/img/research/LAVIS.png"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Attention-Based Learning for 3D Informative Path Planning",
+      "publisher": "International Conference on Intelligent Robots and Systems (IROS)",
+      "releaseDate": "2025-9",
+      "url": "",
+      "summary": "Applied attention mechanisms to enhance 3D informative path planning for robotic applications.",
+      "highlights": [],
+      "image": "assets/img/research/3DIPP.gif"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "COMPASS: Cooperative Multi-Agent Persistent Surveillance using Spatio-Temporal Attention Network",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "An ongoing graduate project developing a novel spatio-temporal attention network for coordinated multi-agent surveillance, demonstrating improved uncertainty reduction, scalability, and robustness.",
+      "highlights": [],
+      "image": "assets/img/research/COMPASS.gif"
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -161,40 +173,34 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "COMPASS: Cooperative Multi-Agent Persistent Surveillance",
+      "summary": "Developing a spatio-temporal attention network using multi-agent reinforcement learning and Gaussian processes on graph structures for persistent surveillance of dynamic targets.",
+      "highlights": [
+        "Centralized training via PPO",
+        "Evaluated in simulated environments using AirSim (UE5)",
+        "Enhanced uncertainty reduction and scalability"
+      ],
+      "startDate": "2024-07-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Hand-tracking and Object Detection for Verification in Assembly",
+      "summary": "Integrated an LSTM-based gesture recognition system with a YOLO-based object detection system for stage positioning and error detection during assembly tasks.",
+      "highlights": [],
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-01",
+      "url": ""
+    },
+    {
+      "name": "Collaborative Motion Control of Dual Robots",
+      "summary": "Implemented real-time trajectory tracking and pose estimation using Cartographer, Kalman filtering, and integrated sensor communication via CAN and I2C for dual-robot coordination.",
+      "highlights": [],
+      "startDate": "2021-12-01",
+      "endDate": "2022-12-01",
+      "url": ""
     }
   ]
 }
