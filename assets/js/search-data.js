@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-music",
-          title: "Music",
+          title: "music",
           description: "Styles are just styles, keep your eyes on the content.",
           section: "Navigation",
           handler: () => {
