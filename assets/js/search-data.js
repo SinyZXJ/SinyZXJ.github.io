@@ -18,17 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-music",
           title: "music",
-          description: "Styles are just styles, keep your eyes on the content.",
+          description: "Styles are just styles, keep your eyes on the content 😎",
           section: "Navigation",
           handler: () => {
             window.location.href = "/music/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -39,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "My first 1/8 life (Maybe someday we could live to 200 years old 🤔)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -92,20 +85,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/Xingjian (Siny) Zhang", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0009-0003-8137-8098", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-xiaohongshu',
