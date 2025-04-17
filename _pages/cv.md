@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 6
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: My first 1/8 life (Maybe someday we could live to 200 years old 🤔)
 toc:
   sidebar: left
 ---

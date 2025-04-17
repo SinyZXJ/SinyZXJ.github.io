@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Xingjian (Siny) Zhang",
-    "label": "Robotics Researcher & Music Producer",
+    "name": "Xingjian(Siny) Zhang 张行健",
     "image": "",
     "email": "xingjian@u.nus.edu",
-    "phone": "N.A.",
     "url": "https://sinyzxj.github.io",
-    "summary": "M.Sc. student in Mechanical Engineering at the National University of Singapore with research interests in multi-agent deep reinforcement learning, human–robot interaction, and generative AI. Experienced in machine learning, control systems, and computer vision processing. Passionate about music production.",
+    "summary": "M.Sc. student in Mechanical Engineering at National University of Singapore with research interests in multi-agent deep reinforcement learning, human–robot interaction, and generative AI. Experienced in machine learning, control systems, and computer vision processing. Passionate about music production.",
     "location": {
       "address": "Storey 9, Create Tower, SMART",
       "postalCode": "138602",
@@ -28,15 +26,6 @@
     ]
   },
   "work": [
-    {
-      "name": "CLeAR Lab",
-      "position": "Research Intern, School of Computing, NUS",
-      "url": "https://clear-nus.github.io/",
-      "startDate": "2025-07-01",
-      "endDate": "N.A.",
-      "summary": "Estimated to develop research on remote manipulation",
-      "highlights": []
-    },
     {
       "name": "SMART, Massachusetts Institute of Technology (MIT)",
       "position": "Research Intern, Mens, Manus and Machina (M3S)",
@@ -61,43 +50,39 @@
   ],
   "education": [
     {
-      "institution": "National University of Singapore",
       "location": "Singapore",
       "url": "https://nus.edu.sg",
       "area": "Mechanical Engineering",
-      "studyType": "M.Sc.",
+      "studyType": "M.Sc. @ National University of Singapore",
       "startDate": "2024-08-01",
       "endDate": "2026-01-01",
       "score": "4.5/5.0",
       "courses": [
         "Machine Learning in Robotics",
-        "Machine Vision",
-        "Autonomous Mobile Robotics"
+        "Autonomous Mobile Robotics",
+        "Soft Robotics"
       ]
     },
     {
-      "institution": "Harbin Institute of Technology",
       "location": "Shenzhen, China",
       "url": "https://www.hit.edu.cn",
       "area": "Automation",
-      "studyType": "B.Eng.",
+      "studyType": "B.Eng. @ Harbin Institute of Technology",
       "startDate": "2020-09-01",
       "endDate": "2024-06-01",
       "score": "Outstanding Student of 2020-2021",
       "courses": [
+        "Outstanding Student of 2020-2021",
         "Modern Control Theory",
         "Advanced Language Programming (C/C++)",
-        "Data Structures",
-        "Digital and Analog Circuits",
-        "Machine Vision"
+        "Data Structures and Algorithms"
       ]
     },
     {
-      "institution": "NUS Research Institute",
       "location": "Suzhou, China",
-      "url": "",
+      "url": "http://en.nusri.cn/",
       "area": "Robotics & Control",
-      "studyType": "Exchange Student",
+      "studyType": "Exchange Student @ NUS Research Institute",
       "startDate": "2023-09-01",
       "endDate": "2024-05-01",
       "score": "4.0/4.0",
@@ -134,7 +119,7 @@
   "certificates": [],
   "publications": [
     {
-      "name": "Learning-based Stage Verification System in Manual Assembly Scenarios",
+      "name": "Learning-based Stage Verification System in Manual Assembly Scenarios (Submitted)",
       "publisher": "International Conference on Smart and Advanced Manufacturing",
       "releaseDate": "2024-11-30",
       "url": "",
@@ -156,7 +141,7 @@
       "publisher": "",
       "releaseDate": "",
       "url": "",
-      "summary": "An ongoing graduate project developing a novel spatio-temporal attention network for coordinated multi-agent surveillance, demonstrating improved uncertainty reduction, scalability, and robustness.",
+      "summary": "Ongoing graduate project, developing a novel spatio-temporal attention network for coordinated multi-agent surveillance, demonstrating improved uncertainty reduction, scalability, and robustness.",
       "highlights": [],
       "image": "assets/img/research/COMPASS.gif"
     }

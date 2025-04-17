@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: NUS & SMART, Robot Learning, Music
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
     <p>Storey 9, Create Tower, SMART</p>
     <p>UTown, NUS</p>
     <p>Singapore,138602</p>
+    <p>xingjian@u.nus.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,7 +23,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: "music"
 permalink: /music/
-description: Styles are just styles, keep your eyes on the content.
+description: Styles are just styles, keep your eyes on the content 😎
 nav: true
 nav_order: 3
 ---
