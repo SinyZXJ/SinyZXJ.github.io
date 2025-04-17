@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Music"
+title: "music"
 permalink: /music/
 description: Styles are just styles, keep your eyes on the content.
 nav: true
