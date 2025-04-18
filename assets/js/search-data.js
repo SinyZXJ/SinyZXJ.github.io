@@ -80,11 +80,18 @@ ninja.data = [{
           window.open("mailto:%78%69%6E%67%6A%69%61%6E@%75.%6E%75%73.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/SinyZXJ", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Xingjian (Siny) Zhang", "_blank");
+          window.open("https://www.linkedin.com/in/xingjian-zhang-98779b314", "_blank");
         },
       },{
         id: 'social-xiaohongshu',
