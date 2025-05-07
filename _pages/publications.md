@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: I'm just 23, give me some time 🧙‍♂️
+description: pub exploding magic 🧙‍♂️ (seems no use yet)
 nav: true
 nav_order: 2
 ---
