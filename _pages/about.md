@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: NUS & SMART, Robot Learning, Music
+subtitle: HITsz | NUS | MIT SMART | A*STAR CFAR
 
 profile:
   align: right
