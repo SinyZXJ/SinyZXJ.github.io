@@ -72,6 +72,9 @@ ninja.data = [{
             },},{id: "news-a-new-version-of-my-homepage-is-constructed-waiting-for-more-good-news-here",
           title: 'A new version of my homepage is constructed. Waiting for more good news...',
           description: "",
+          section: "News",},{id: "news-i-was-just-awarded-the-cfar-center-for-frontier-ai-research-internship-award-for-research-excellence-from-a-star",
+          title: 'I was just awarded the CFAR(Center for Frontier AI Research) Internship Award for...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
