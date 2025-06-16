@@ -34,6 +34,15 @@
       "endDate": "2025-06-01",
       "summary": "Leveraged Transformer architectures within a Generative Adversarial Imitation Learning (GAIL) framework to predict sequential personal educational and career trajectories based on expert demonstrations.",
       "highlights": []
+    },
+    {
+      "name": "A*STAR Centre for Frontier AI Research (CFAR)",
+      "position": "Research Intern",
+      "url": "https://www.a-star.edu.sg/cfar",
+      "startDate": "2025-06-02",
+      "endDate": "2025-08-08",
+      "summary": "Initiate research on “Robust Reflective Planning with Generative Physical Simulation for Long Horizon Manipulation”, focusing on test-time constraints and physical generative models through RL.",
+      "highlights": []
     }
   ],
   "Activities": [
@@ -56,7 +65,7 @@
       "studyType": "M.Sc. @ National University of Singapore",
       "startDate": "2024-08-01",
       "endDate": "2026-01-01",
-      "score": "4.5/5.0",
+      "score": "4.72/5.0",
       "courses": [
         "Machine Learning in Robotics",
         "Autonomous Mobile Robotics",
@@ -129,22 +138,23 @@
     },
     {
       "name": "Attention-Based Learning for 3D Informative Path Planning",
-      "publisher": "International Conference on Intelligent Robots and Systems (IROS)",
-      "releaseDate": "2025-9",
-      "url": "",
+      "publisher": " ",
+      "releaseDate": " ",
+      "url": "https://arxiv.org/abs/2506.08434",
       "summary": "Applied attention mechanisms to enhance 3D informative path planning for robotic applications.",
       "highlights": [],
       "image": "assets/img/research/3DIPP.gif"
     },
     {
       "name": "COMPASS: Cooperative Multi-Agent Persistent Surveillance using Spatio-Temporal Attention Network",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": "Ongoing graduate project, developing a novel spatio-temporal attention network for coordinated multi-agent surveillance, demonstrating improved uncertainty reduction, scalability, and robustness.",
+      "publisher": "MRS2025",
+      "releaseDate": " ",
+      "url": " ",
+      "summary": "Developed a novel spatio-temporal attention network for coordinated multi-agent surveillance, demonstrating improved uncertainty reduction, scalability, and robustness.",
       "highlights": [],
       "image": "assets/img/research/COMPASS.gif"
-    }
+    },
+
   ],
   "languages": [
     {
