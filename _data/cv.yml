@@ -1,97 +1,119 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
+  - name: Full Name
+    value: Xingjian(Siny) Zhang 张行健
+  - name: Email
+    value: xingjian@u.nus.edu
+  - name: Website
+    value: https://sinyzxj.github.io
+  - name: Location
+    value: Storey 9, Create Tower, SMART, Singapore 138602
+  - name: Languages
+    value: Chinese (Native), English (Fluent)
+  - name: Interests
+    value: Multi-agent deep RL, Human–robot interaction, Generative AI, Music production
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+  - title: M.Sc. in Mechanical Engineering
+    institution: National University of Singapore, Singapore
+    year: 2024 - 2026
+    description:
+    - 'GPA: 4.72/5.0'
+    - 'Courses: Machine Learning in Robotics, Autonomous Mobile Robotics, Soft Robotics'
+  - title: Exchange Student in Robotics & Control
+    institution: NUS Research Institute, Suzhou, China
+    year: 2023 - 2024
+    description:
+    - 'GPA: 4.0/4.0'
+    - 'Courses: Robot Mechanics and Control, Automation in Manufacturing, Product
+      Design and Development'
+  - title: B.Eng. in Automation
+    institution: Harbin Institute of Technology, Shenzhen, China
+    year: 2020 - 2024
+    description:
+    - Awarded Outstanding Student of 2020-2021
+    - 'Courses: Modern Control Theory, Advanced Language Programming (C/C++), Data
+      Structures and Algorithms'
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+  - title: Research Intern, M3S
+    institution: SMART, Massachusetts Institute of Technology (MIT)
+    year: 2025.01 - 2025.06
+    description:
+    - Applied Transformer architectures within GAIL to predict sequential educational
+      and career trajectories from expert demonstrations.
+  - title: Research Intern
+    institution: A*STAR Centre for Frontier AI Research (CFAR)
+    year: 2025.06 - 2025.08
+    description:
+    - Initiated project on robust reflective planning with generative physical simulation
+      for long-horizon manipulation under test-time constraints.
+  - title: Vice Chairman
+    institution: Shenzhen Campus Student Art Troupe
+    year: 2021 - 2022
+    description:
+    - Organized 20+ performances and commemorative events including the 20th Anniversary
+      Evening.
+    - Produced HIT anniversary song exhibited in HIT History Museum.
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+  - title: 'COMPASS: Cooperative Multi-Agent Persistent Surveillance'
+    year: 2024.07 - Present
+    description:
+    - Developed spatio-temporal attention network using PPO and Gaussian Processes
+      on graph structures.
+    - Validated in AirSim (UE5) with improved uncertainty reduction and scalability.
+  - title: Hand-tracking and Object Detection for Verification in Assembly
+    year: 2023.09 - 2024.05
+    description:
+    - Combined LSTM gesture recognition and YOLO-based object detection to verify
+      manual assembly stages.
+  - title: Collaborative Motion Control of Dual Robots
+    year: 2021.12 - 2022.12
+    description:
+    - Real-time trajectory tracking and dual-robot coordination using Cartographer,
+      Kalman filtering, CAN/I2C communication.
+- title: Publications
+  type: time_table
+  contents:
+  - title: Learning-based Stage Verification System in Manual Assembly Scenarios (Submitted)
+    institution: International Conference on Smart and Advanced Manufacturing
+    year: '2024'
+    description:
+    - Stereo camera-based learning system to improve manual assembly accuracy.
+  - title: Attention-Based Learning for 3D Informative Path Planning
+    institution: arXiv
+    year: '2025'
+    description:
+    - Enhanced 3D informative path planning via attention mechanisms.
+    - 'Link: https://arxiv.org/abs/2506.08434'
+  - title: 'COMPASS: Cooperative Multi-Agent Persistent Surveillance using Spatio-Temporal
+      Attention Network'
+    institution: MRS 2025 (to appear)
+    year: '2025'
+    description:
+    - Introduced spatio-temporal attention network for multi-agent surveillance.
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
+  - year: '2022'
+    items:
+    - Finalist (Top 1.3% Global), Mathematical Contest in Modeling (MCM), First author
+    - National Third Prize, ROBOCON
+  - year: '2021'
+    items:
+    - National First Prize, 16th National Smart Car Race
+- title: Online Profiles
+  type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
+  - <a href='https://www.xiaohongshu.com/user/profile/598c7d7b50c4b44ab81d6472?xsec_token=...'>RedNote
+    @_siny</a>
+  - <a href='https://music.163.com/#/artist?id=46771775'>NetEaseMusic @_siny</a>
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  - <u>Hobbies:</u> Music production, Visual design, Community events
