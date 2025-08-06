@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a master student at National University of Singapore (NUS) and a research intern at Singapore-MIT Alliance for Research and Technology (SMART), estimated to graduate at Jan 2026. I developed research on Multi-agent reinforcement learning at Multi-Agent Robotic Motion (MARMot) Lab under guidance of Prof. Guillaume SARTORETTI. Before that, I received my bachelor's degree in Automation at Harbin Institute of Technology, Shenzhen (HITsz).
+I'm currently a master student at National University of Singapore (NUS) and a research intern at A*STAR Centre for Frontier AI Research, estimated to graduate at Jan 2026. Before this, I was a research intern at MIT SMART Research Institute. I developed research on Multi-agent reinforcement learning at Multi-Agent Robotic Motion (MARMot) Lab under guidance of Prof. Guillaume SARTORETTI. I received my bachelor's degree in Automation at Harbin Institute of Technology, Shenzhen (HITsz).
 
-In 2024, I have primarily focused on multi-agent informative path planning based on reinforcement learning. As a long-term goal, I am dedicated to enhancing robotic perception and behavioral intelligence through machine learning, with the aim of driving tangible improvements in human labor and achieving highly reliable, deployable robotic technologies.
+I primarily focus on multi-agent reinforcement learning (MARL), physical AI and embodied AI. As a long-term goal, I am dedicated to enhancing robotic perception and behavioral intelligence through machine learning, with the aim of driving tangible improvements in human labor and achieving highly reliable, deployable robotic technologies.
 
-I'm also a music producer and a mixing engineer. Starting in 2026, there would be several plans to promote and release my music more actively. You can find and listen to my work by searching for "Siny" on NetEase Music.
+I'm also a music producer and a mixing engineer. Starting in 2026, there would be several plans to promote and release my music more actively. You can find and listen to my work by searching for "Siny" or "_siny" on different media platforms including RedNote/NetEaseMusic/Douyin 😀.
