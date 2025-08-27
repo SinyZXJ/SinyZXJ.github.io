@@ -203,6 +203,7 @@ exclude:
   - _pages/profiles.md
   - _pages/dropdown.md
   - _pages/projects.md
+  - _pages/repositories.md
   - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
