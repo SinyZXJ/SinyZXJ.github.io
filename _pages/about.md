@@ -24,13 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p style="font-size:1.2em; background-color:#fff2cc; padding:0.5em; border-radius:3px;">
-  <strong>I’m currently seeking PhD positions in robotics/AI.</strong><br>
-  If our interests align, feel free to reach out.
-</p>
-
-I’m a Master’s student at the National University of Singapore (NUS) and a research intern at the A*STAR Centre for Frontier AI Research (CFAR), graduating in Jan 2026. Previously, I was a research intern at MIT SMART. I received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen (HITsz). My current interests span embodied/physical AI, reinforcement learning, and robotic perception & control.
+I’m a Master’s student at the National University of Singapore (NUS) and a research intern at the A*STAR Centre for Frontier AI Research (CFAR), graduating in Jan 2026. Previously, I was a research intern at MIT SMART. I received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen (HITsz). My current interests span <strong> embodiedAI, physical AI, reinforcement learning.</strong>
 
 Long-term, I aim to strengthen robotic perception and behavioral intelligence with machine learning—pushing toward reliable, deployable robotic systems that meaningfully augment human work.
 
 Outside research, I’m a music producer and mixing engineer. Starting in 2026, I plan more active releases — search “Siny” or “_siny” on RedNote / NetEase Music / Douyin to find my tracks🎵. 
+<br>
+<br>
+<p style="font-size:1.2em; color: #d9534f !important; background-color:#fff2cc !important; padding:0.5em; border-radius:3px;">
+  <strong>I’m currently seeking PhD positions in robotics/AI.</strong><br>
+  If our interests align, feel free to reach out.
+</p>
+
