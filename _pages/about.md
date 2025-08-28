@@ -24,8 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a master student at National University of Singapore (NUS) and a research intern at A*STAR Centre for Frontier AI Research, estimated to graduate at Jan 2026. Before this, I was a research intern at MIT SMART Research Institute. I developed research on Multi-agent reinforcement learning at Multi-Agent Robotic Motion (MARMot) Lab under guidance of Prof. Guillaume SARTORETTI. I received my bachelor's degree in Automation at Harbin Institute of Technology, Shenzhen (HITsz).
+<p style="font-size:1.2em; background-color:#fff2cc; padding:0.5em; border-radius:3px;">
+  <strong>I’m currently seeking PhD positions in robotics/AI.</strong><br>
+  If our interests align, feel free to reach out.
+</p>
 
-I primarily focus on multi-agent reinforcement learning (MARL), physical AI and embodied AI. As a long-term goal, I am dedicated to enhancing robotic perception and behavioral intelligence through machine learning, with the aim of driving tangible improvements in human labor and achieving highly reliable, deployable robotic technologies.
+I’m a Master’s student at the National University of Singapore (NUS) and a research intern at the A*STAR Centre for Frontier AI Research (CFAR), graduating in Jan 2026. Previously, I was a research intern at MIT SMART. I received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen (HITsz). My current interests span embodied/physical AI, reinforcement learning, and robotic perception & control.
 
-I'm also a music producer and a mixing engineer. Starting in 2026, there would be several plans to promote and release my music more actively. You can find and listen to my work by searching for "Siny" or "_siny" on different media platforms including RedNote/NetEaseMusic/Douyin 😀.
+Long-term, I aim to strengthen robotic perception and behavioral intelligence with machine learning—pushing toward reliable, deployable robotic systems that meaningfully augment human work.
+
+Outside research, I’m a music producer and mixing engineer. Starting in 2026, I plan more active releases — search “Siny” or “_siny” on RedNote / NetEase Music / Douyin to find my tracks🎵. 
