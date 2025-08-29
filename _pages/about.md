@@ -30,7 +30,7 @@ Long-term, I aim to strengthen robotic perception and behavioral intelligence wi
 
 Outside research, I’m a music producer and mixing engineer. Starting in 2026, I plan more active releases — search “Siny” or “_siny” on RedNote / NetEase Music / Douyin to find my tracks🎵. 
 <br>
-<p style="font-size:1.2em; color: #844fd9ff !important; background-color:#fff180 !important; padding:0.5em; border-radius:3px;">
+<p class="hero-callout">
   <strong>I’m currently seeking Ph.D. positions in robotics/AI.</strong><br>
-  If our interests align, feel free to reach out 🧙‍
+  If our interests align, feel free to reach out 💫
 </p>

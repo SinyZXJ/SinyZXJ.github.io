@@ -1417,3 +1417,21 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/* 以下确保 callout 在浅色和深色都具备良好对比效果 */
+.hero-callout {
+  /* 如果你之前内联样式里用了这些色，可改成类选择器覆盖 */
+  background-color: #fff180 !important;
+  color: #1a1a1a !important;
+  font-size: 1.05rem;
+  padding: .6rem .8rem;
+  border-radius: .5rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .hero-callout {
+    background-color: #3a2f00 !important;
+    color: #ffe082 !important;
+    border: 1px solid rgba(255, 255, 255, 0.15) !important;
+  }
+}
