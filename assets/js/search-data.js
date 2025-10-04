@@ -68,6 +68,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-just-awarded-the-cfar-center-for-frontier-ai-research-internship-award-for-research-excellence-from-a-star",
           title: 'I was just awarded the CFAR(Center for Frontier AI Research) Internship Award for...',
           description: "",
+          section: "News",},{id: "news-my-paper-compass-has-been-accepted-for-an-oral-presentation-at-the-mrs-conference-see-you-in-december-at-sutd-in-singapore",
+          title: 'My paper “COMPASS” has been accepted for an oral presentation at the MRS...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
