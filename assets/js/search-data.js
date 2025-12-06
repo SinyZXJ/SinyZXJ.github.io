@@ -52,12 +52,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "music-荧火-faintfire",
+      },{id: "music-荧火-faintfire",
           title: '荧火 FaintFire',
           description: "",
           section: "Music",handler: () => {
@@ -70,6 +65,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-my-paper-compass-has-been-accepted-for-an-oral-presentation-at-the-mrs-conference-see-you-in-december-at-sutd-in-singapore",
           title: 'My paper “COMPASS” has been accepted for an oral presentation at the MRS...',
+          description: "",
+          section: "News",},{id: "news-my-paper-compass-has-been-awarded-best-paper-finalist-on-mrs-2025-many-thanks-to-yizhuo-yuhong-and-guillaume",
+          title: 'My paper “COMPASS” has been awarded “Best Paper Finalist” on MRS 2025. Many...',
           description: "",
           section: "News",},{
         id: 'social-email',
