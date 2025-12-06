@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: HITsz | NUS | MIT SMART | A*STAR CFAR
+subtitle: HITsz | NUS | MIT SMART | A*STAR CFAR | Perceptica Robotics
 
 profile:
   align: right
@@ -24,13 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Master’s student at the National University of Singapore (NUS) and a research intern at the A*STAR Centre for Frontier AI Research (CFAR), graduating in Jan 2026. Previously, I was a research intern at MIT SMART. I received my B.Eng. in Automation from Harbin Institute of Technology, Shenzhen (HITsz). My current interests span <strong> embodiedAI, physical AI, reinforcement learning.</strong>
+I’m a Research Engineer and incoming Ph.D. student at Perceptica Robotics, supervised by Dr. Rajat Talak. Before this, I received my master's degree from NUS ME department supervised by Dr. Guillaume Sartoretti and my bachelor's degree from Harbin Institution of Technology, Shenzhen (HITsz). For internship, I used to work as a research intern at the A*STAR Centre for Frontier AI Research (part-time 2025.1-2025.6) and MIT SMART Research Institute (full-time 2025.6-2025-8). My current interests span <strong> robotics perception, embodied AI, reinforcement learning.</strong>
 
-Long-term, I aim to strengthen robotic perception and behavioral intelligence with machine learning—pushing toward reliable, deployable robotic systems that meaningfully augment human work.
+Long-term, I aim to strengthen robotic perception and behavioral intelligence with machine learning — pushing toward reliable, deployable robotic systems that meaningfully augment human work. I believe technology should first be warm.
 
-Outside research, I’m a music producer and mixing engineer. Starting in 2026, I plan more active releases — search “Siny” or “_siny” on RedNote / NetEase Music / Douyin to find my tracks🎵. 
-<br>
-<p class="hero-callout">
-  <strong>I’m currently seeking Ph.D. positions in robotics/AI.</strong><br>
-  If our interests align, feel free to reach out 💫
-</p>
+Outside research, I’m a music producer and mixing engineer. Starting in 2026, there would be more active releases on my social media platforms — search “Siny” or “_siny” on RedNote / NetEase Music / Douyin to find my tracks and updates🎵. 
