@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Research Engineer and incoming Ph.D. student at Perceptica Robotics, NUS ECE, supervised by Dr. Rajat Talak. Before this, I received my master's degree from NUS ME department, supervised by Dr. Guillaume Sartoretti and my bachelor's degree from Harbin Institution of Technology, Shenzhen (HITsz). For internship, I used to work as a research intern at the A*STAR Centre for Frontier AI Research (full-time 2025.6-2025-8, funded by CIARE) and MIT SMART Research Institute (part-time 2025.1-2025.6). My current interests span **Robotics Perception**, **Embodied AI**, and **Reinforcement Learning**.
+I’m currently a Research Engineer at Perceptica Robotics, NUS ECE, supervised by Dr. Rajat Talak. Before this, I received my master's degree from NUS ME department, supervised by Dr. Guillaume Sartoretti and my bachelor's degree from Harbin Institution of Technology, Shenzhen (HITsz). For internship, I used to work as a research intern at the A*STAR Centre for Frontier AI Research (full-time 2025.6-2025-8, funded by CIARE) and MIT SMART Research Institute (part-time 2025.1-2025.6). My current interests span **Robotics Perception**, **Embodied AI**, and **Reinforcement Learning**.
 
 I aim to strengthen robotic perception and behavioral intelligence — pushing toward reliable systems that meaningfully augment human work. I believe technology should first be warm.
 
