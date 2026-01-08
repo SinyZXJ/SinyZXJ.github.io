@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-music",
           title: "music",
-          description: "Styles are just styles, keep your eyes on the content 😎",
+          description: "Where Jazz meets Algorithm. A collection of sonic experiments and produced tracks.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/music/";
