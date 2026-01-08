@@ -29,9 +29,3 @@ I’m a Research Engineer and incoming Ph.D. student at Perceptica Robotics, NUS
 I aim to strengthen robotic perception and behavioral intelligence — pushing toward reliable systems that meaningfully augment human work. I believe technology should first be warm.
 
 Starting 2026, expect new frequencies on my platforms. Search **"Siny"** or **"_siny"** on RedNote / NetEase Music / Douyin. 🎵
-
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="https://music.163.com/#/artist?id=123456" class="btn btn-outline-primary">Listen on NetEase</a>
-  <span style="margin: 0 10px;">•</span>
-  <a href="/music/" class="btn btn-outline-primary">My Music Portfolio</a>
-</div> 
