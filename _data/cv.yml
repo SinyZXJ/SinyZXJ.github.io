@@ -4,24 +4,28 @@
   - name: Full Name
     value: Xingjian(Siny) Zhang 张行健
   - name: Email
-    value: xingjian@u.nus.edu
-  - name: Website
-    value: https://sinyzxj.github.io
+    value: "sinyzhang@nus.edu.sg / xingjian@u.nus.edu"
   - name: Location
-    value: Storey 9, Create Tower, SMART, Singapore 138602
+    value: ACT Lab, E4 Level 8, National University of Singapore, Singapore, 117583
   - name: Languages
-    value: Chinese (Native), English (Fluent)
+    value: Chinese, English, Cantonese
   - name: Interests
-    value: Multi-agent Reinforcement Learning, Physical AI, Embodied AI
+    value: Robotic Perception, Physical AI, Embodied AI, Multi
 - title: Education
   type: time_table
   contents:
+  - title: Ph.D. in Electrical and Computer Engineering
+    institution: National University of Singapore
+    year: 2026 -
+    description:
+    - 'Awarded NUS Research Scholarship'
   - title: M.Sc. in Mechanical Engineering
-    institution: National University of Singapore, Singapore
+    institution: National University of Singapore
     year: 2024 - 2026
     description:
-    - 'GPA: 4.72/5.0'
+    - 'GPA: 4.75/5.0'
     - 'Courses: Machine Learning in Robotics, Autonomous Mobile Robotics, Soft Robotics'
+    - 'Awarded CFAR Internship Award for Research Excellence'
   - title: Exchange Student in Robotics & Control
     institution: NUS Research Institute, Suzhou, China
     year: 2023 - 2024
@@ -51,26 +55,6 @@
     description:
     - Initiated project on robust reflective planning with generative physical simulation
       for long-horizon manipulation under test-time constraints by neuro-symbolic reasoning.
-- title: Projects
-  type: time_table
-  contents:
-  - title: 'COMPASS: Cooperative Multi-Agent Persistent Monitoring'
-    year: 2024.07 - 2025.06
-    description:
-    - Developed spatio-temporal attention network using PPO and Gaussian Processes
-      on graph structures.
-    - Validated in AirSim (UE4) with improved uncertainty reduction and scalability.
-  - title: Hand-tracking and Object Detection for Verification in Assembly
-    year: 2023.09 - 2024.05
-    description:
-    - Combined LSTM gesture recognition and object detection to verify
-      manual assembly stages.
-    - Developed a CNN-based angle detection network for component alignment.
-  - title: Collaborative Motion Control of Dual Robots
-    year: 2021.12 - 2022.12
-    description:
-    - Real-time trajectory tracking and dual-robot coordination using Cartographer,
-      Kalman filtering, CAN/I2C communication.
 - title: Publications
   type: time_table
   contents:
